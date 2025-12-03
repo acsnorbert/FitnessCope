@@ -1,0 +1,7 @@
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\bin\Debug\FitPal.exe.config
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\bin\Debug\FitPal.exe
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\bin\Debug\FitPal.pdb
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.csproj.AssemblyReference.cache
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.csproj.CoreCompileInputs.cache
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.exe
+C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.pdb
