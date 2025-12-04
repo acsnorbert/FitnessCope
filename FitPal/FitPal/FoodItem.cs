@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+    
 
 namespace FitPal
 {
@@ -28,5 +29,5 @@ namespace FitPal
             return $"{Name} - {Calories} kcal (P: {Protein}g, Zs: {Fat}g, CH: {Carbs}g)";
         }
     }
-
 }
+

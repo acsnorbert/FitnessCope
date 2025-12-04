@@ -5,3 +5,10 @@ C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.csproj.Assemb
 C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.csproj.CoreCompileInputs.cache
 C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.exe
 C:\Users\palinkasandor\source\repos\FitPal\FitPal\obj\Debug\FitPal.pdb
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\bin\Debug\FitPal.exe.config
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\bin\Debug\FitPal.exe
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\bin\Debug\FitPal.pdb
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\obj\Debug\FitPal.csproj.AssemblyReference.cache
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\obj\Debug\FitPal.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\obj\Debug\FitPal.exe
+C:\Users\Attila\Desktop\Új mappa\FitPal\FitPal\obj\Debug\FitPal.pdb

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace FitPal
 {
     class CustomRecipe : FoodItem
@@ -21,5 +23,5 @@ namespace FitPal
             return $"[Recept] {Name} - {Calories} kcal (P: {Protein}g, Zs: {Fat}g, CH: {Carbs}g)\nElkészítés: {Steps}";
         }
     }
-
 }
+

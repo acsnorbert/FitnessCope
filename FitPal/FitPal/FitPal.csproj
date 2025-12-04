@@ -46,11 +46,13 @@
     <Compile Include="BasicFood.cs" />
     <Compile Include="CustomRecipe.cs" />
     <Compile Include="DailyLog.cs" />
+    <Compile Include="DataStorage.cs" />
     <Compile Include="FoodItem.cs" />
     <Compile Include="LogManager.cs" />
     <Compile Include="MenuController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

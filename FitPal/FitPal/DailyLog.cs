@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace FitPal
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-
     class DailyLog
     {
         public DateTime Date { get; set; }
@@ -48,5 +45,4 @@ namespace FitPal
                 $"Lépésszám: {Steps} lépés\n";
         }
     }
- 
 }

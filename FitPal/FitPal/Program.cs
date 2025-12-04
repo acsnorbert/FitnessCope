@@ -6,12 +6,27 @@ using System.Threading.Tasks;
 
 namespace FitPal
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            MenuController menu = new MenuController();
+
+            LogManager manager = new LogManager();
+            manager.LoadRecipes(); 
+            manager.LoadLogs();   
+
+            User user = new User();
+            user.Load();
+
+            MenuController menu = new MenuController(manager, user);
             menu.RunMenu();
+
+            manager.SaveLogs();
+            manager.SaveRecipes();
+            user.Save();
+
+            Console.WriteLine("Minden adatod elmentve. Szevasz!");
         }
     }
 }
+
